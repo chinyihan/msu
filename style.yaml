@@ -16,7 +16,7 @@ text_MCS:
     font-size: 28px
     font-weight: '700'
     height: 30.666666px
-    text-name: TL
+    text-name: MCS
     width: 99.66666599999999px
   height: 31
   left: 577px
@@ -29,7 +29,7 @@ text_DPS:
     font-size: 28px
     font-weight: '700'
     height: 30.666666px
-    text-name: TL
+    text-name: DPS
     width: 99.66666599999999px
   height: 31
   left: 577px
@@ -42,7 +42,7 @@ text_Power_supply:
     font-size: 28px
     font-weight: '700'
     height: 30.666666px
-    text-name: TL
+    text-name: Power_supply
     width: 99.66666599999999px
   height: 31
   left: 577px
@@ -55,7 +55,7 @@ text_V2:
     font-size: 28px
     font-weight: '700'
     height: 30.666666px
-    text-name: TL
+    text-name: V2
     width: 99.66666599999999px
   height: 31
   left: 577px
