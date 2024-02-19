@@ -10,3 +10,55 @@ text_TL:
   top: 52px
   type: text
   width: 100
+
+text_MCS:
+  div:
+    font-size: 28px
+    font-weight: '700'
+    height: 30.666666px
+    text-name: TL
+    width: 99.66666599999999px
+  height: 31
+  left: 577px
+  top: 52px
+  type: text
+  width: 100
+
+text_DPS:
+  div:
+    font-size: 28px
+    font-weight: '700'
+    height: 30.666666px
+    text-name: TL
+    width: 99.66666599999999px
+  height: 31
+  left: 577px
+  top: 52px
+  type: text
+  width: 100
+
+text_Power_supply:
+  div:
+    font-size: 28px
+    font-weight: '700'
+    height: 30.666666px
+    text-name: TL
+    width: 99.66666599999999px
+  height: 31
+  left: 577px
+  top: 52px
+  type: text
+  width: 100
+
+text_V2:
+  div:
+    font-size: 28px
+    font-weight: '700'
+    height: 30.666666px
+    text-name: TL
+    width: 99.66666599999999px
+  height: 31
+  left: 577px
+  top: 52px
+  type: text
+  width: 100
